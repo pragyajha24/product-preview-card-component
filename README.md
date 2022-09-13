@@ -1,5 +1,21 @@
 # Frontend Mentor - Product preview card component
 
+This is a solution to the [Product preview card component challenge on Frontent Mentor]. Frontent Mentor challenges help you improve your coding skills by building realistic projects.
+
+##Table of contents
+-[Overview]
+  -[The challenge]
+  -[Screenshot]
+  
+ -[My process]
+   -[Built with]
+   -[What I learned]
+   -[Continued development]
+  
+  -[Author]
+  
+  ##Overview
+
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
